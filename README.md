@@ -27,3 +27,12 @@ A C# console application built with Entity Framework Core and SQLite.
 
 ## Notes
 This project was created as part of a Class Module Entity Framework console application exercise.
+
+## Status - Work in Progress
+This project is currently under development and will be improved with:
+- Additional features
+- Improved UI
+- Better error handling
+
+## Author
+Temitope Ayilara
